@@ -1,9 +1,3 @@
-# Libertades_enredadas
-Working progress de mi etnografía sobre Redes Libres Comunitarias
----
-layout: default
----
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
