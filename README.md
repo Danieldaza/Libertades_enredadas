@@ -6,9 +6,14 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Libertades enredadas. Una mirada antropológica del aprendizaje y el activismo de los informáticos en las Redes de Internet Comunitaria de Buenos Aires.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+¿Qué motiva a un grupo de informáticos y vecinos a construir su propia Internet comunitaria conectando sus computadoras entre sí? ¿Quienes son estos activistas que dedican su tiempo a experimentar con tecnologías, aprender en grupo y hacer amigos? Denominados “Redes Libres”, existen grupos formados por personas que conectan sus computadoras para compartir datos y servicios utilizando tecnología inalámbrica (WiFi). Con una mirada antropológica este libro explora, a partir del trabajo etnográfico con los informáticos de tres redes que funcionaron en la ciudad y la provincia de Buenos Aires en la década del 2010,  los cruces entre  el activismo tecnosocial, los principios del Software Libre y algunas formas de aprendizaje en la práctica, autónomo y colaborativo. 
+
+La red de redes está tensionada por múltiples intereses contrapuestos: libertad o control, centralismo u horizontalidad, colaboración o individualismo, capitalismo o anarquismo. Esta investigación nos permite comprender la historia de estas y otras controversias, desde el punto de vista de quienes buscan construir formas horizontales y cooperativas para esa máquina sociotécnica llamada Internet. 
+
+El conocimiento informático se ha vuelto transversal a todas las disciplinas y ámbitos de la vida cotidiana. Este texto propone que el aprendizaje es un elemento clave para los activistas que se disputan los sentidos de la libertad en las redes digitales. 
+
 
 ## Header 2
 
