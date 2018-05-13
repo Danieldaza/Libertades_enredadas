@@ -16,7 +16,7 @@ La red de redes está tensionada por múltiples intereses contrapuestos: liberta
 El conocimiento informático se ha vuelto transversal a todas las disciplinas y ámbitos de la vida cotidiana. Este texto propone que el aprendizaje es un elemento clave para los activistas que se disputan los sentidos de la libertad en las redes digitales. 
 
 
-### Índice
+## Índice
 
 #### 0. Introducción	
 0.1 Encontrar un tema en el laberinto	
@@ -97,18 +97,9 @@ Anexo IV: Grupos de Redes Inalámbricas Libres y Comunitarias
 * -Aprendizaje y activismo
 * - Libertades y redes
 * - Informáticos y vecinos
-```
 
-```
 
-### Small image
-
+Espero que esta tesis aporte a la construcción de una: 
+...
 ![Octocat](https://surcandolared.files.wordpress.com/2012/04/1f7f9051c.jpg?w=290&h=376)
-
-
-
-
-
-```
-The final element.
-```
+...
