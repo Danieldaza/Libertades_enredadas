@@ -101,7 +101,7 @@ Anexo IV: Grupos de Redes Inalámbricas Libres y Comunitarias
 
 ### Small image
 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![Octocat](https://surcandolared.files.wordpress.com/2012/04/1f7f9051c.jpg?w=290&h=376)
 
 ### Large image
 
