@@ -1,4 +1,4 @@
-# Doctorado en Antropología Social - IDAES - Universidad Nacional de San Martín, Buenos Aires Argentina
+### Doctorado en Antropología Social - IDAES - Universidad Nacional de San Martín, Buenos Aires Argentina
 
 Tesis de Doctorado presentada a la Carrera de Antropología Social, Instituto de Altos Estudios Sociales, Universidad Nacional de San Martín, como parte de los requisitos necesarios para la obtención del título de Doctor en Antropología Social.
 
@@ -97,33 +97,17 @@ Anexo IV: Grupos de Redes Inalámbricas Libres y Comunitarias
 * -Aprendizaje y activismo
 * - Libertades y redes
 * - Informáticos y vecinos
+```
 
+```
 
 ### Small image
 
 ![Octocat](https://surcandolared.files.wordpress.com/2012/04/1f7f9051c.jpg?w=290&h=376)
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
 ```
 The final element.
