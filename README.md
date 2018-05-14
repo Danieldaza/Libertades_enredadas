@@ -17,6 +17,7 @@ El conocimiento informático se ha vuelto transversal a todas las disciplinas y 
 
 
 ## Índice
+Podés leer y comentar los capítulos de esta tesis en la wiki del github: <a href="https://github.com/Danieldaza/Libertades_enredadas/wiki">Wiki</a> 
 
 #### 0. Introducción	
 0.1 Encontrar un tema en el laberinto	
