@@ -112,21 +112,20 @@ Anexo IV: Grupos de Redes Inalámbricas Libres y Comunitarias
 <tr> 
    <td bgcolor="#5FA6D7"> 
 <font size=1 face="verdana, arial, helvetica"> 
-<b>Recuadro curioso con HTML</b> 
+<b>Gracias por leer</b> 
 </font> 
    </td> 
 </tr> 
 <tr> 
     <td bgcolor="#ffffcc"> 
    <font face="verdana, arial, helvetica" size=1> 
-   Este es el interior del recuadro. Esperamos que os resulte elegante... es muy sencillo. 
+   Espero que esta tesis aporte a la construcción de una: 
+	    <IMG src="https://surcandolared.files.wordpress.com/2012/04/1f7f9051c.jpg?w=290&h=376" width="100" height="100"/>
    </font> 
    </td> 
 </tr> 
 </table>
 
-
-Espero que esta tesis aporte a la construcción de una: 
 ...
-    <IMG src="https://surcandolared.files.wordpress.com/2012/04/1f7f9051c.jpg?w=290&h=376" width="100" height="100"/>
+   
 ...
