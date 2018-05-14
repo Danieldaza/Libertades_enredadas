@@ -1,5 +1,11 @@
 ### Doctorado en Antropología Social - IDAES - Universidad Nacional de San Martín, Buenos Aires Argentina
-
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
 Tesis de Doctorado presentada a la Carrera de Antropología Social, Instituto de Altos Estudios Sociales, Universidad Nacional de San Martín, como parte de los requisitos necesarios para la obtención del título de Doctor en Antropología Social.
 
 Doctorando: Lic. Daniel Daza 
@@ -99,6 +105,7 @@ Manifiestos
 * -Aprendizaje y activismo
 * - Libertades y redes
 * - Informáticos y vecinos
+
 
 
 Espero que esta tesis aporte a la construcción de una: 
