@@ -1,9 +1,9 @@
-### Doctorado en Antropología Social - IDAES - Universidad Nacional de San Martín, Buenos Aires Argentina
+
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
+// Tesis de doctorado para ser presentada en la carrera de Antropología Scoial y Cultural.
+IDAES = Universidad Nacional de San Martín (UNSAM) {
+  doctorando = lic. Daniel Daza (Prado)
+  director = dr. Rolando Silla;
 }
 ```
 Tesis de Doctorado presentada a la Carrera de Antropología Social, Instituto de Altos Estudios Sociales, Universidad Nacional de San Martín, como parte de los requisitos necesarios para la obtención del título de Doctor en Antropología Social.
