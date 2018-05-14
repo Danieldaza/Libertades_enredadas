@@ -1,7 +1,8 @@
 
 ```js
 // Tesis de doctorado para ser presentada en la carrera de Antropología Scoial y Cultural.
-IDAES = Universidad Nacional de San Martín (UNSAM) {
+IDAES = Instituto de Altos Estudios Sociales
+UNSAM = Universidad Nacional de San Martín (Argentina) {
   doctorando = lic. Daniel Daza (Prado)
   director = dr. Rolando Silla;
 }
