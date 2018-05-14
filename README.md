@@ -6,11 +6,6 @@ IDAES = Universidad Nacional de San Martín (UNSAM) {
   director = dr. Rolando Silla;
 }
 ```
-Tesis de Doctorado presentada a la Carrera de Antropología Social, Instituto de Altos Estudios Sociales, Universidad Nacional de San Martín, como parte de los requisitos necesarios para la obtención del título de Doctor en Antropología Social.
-
-Doctorando: Lic. Daniel Daza 
-Director: Dr. Rolando Silla
-
 
 # Libertades enredadas. Una mirada antropológica del aprendizaje y el activismo de los informáticos en las Redes de Internet Comunitaria de Buenos Aires.
 
