@@ -53,45 +53,45 @@ El conocimiento informático se ha vuelto transversal a todas las disciplinas y 
 
 #### 3. Una malla enredada	
 3.1 Introducción	
-La ciudad de Buenos Aires y su área metropolitana	
-“CiudadLibre”	
-Barrio libre	
-IslaLibre	
-Líneas que tejen una trama	
-- Los territorios	
-- Los humanos: Técnicos, Hippies y Anarquistas
-	- Formación	
-	- Trabajo	
-	- Un mundo masculino	
-- La organización	
-- Los saberes	
+* La ciudad de Buenos Aires y su área metropolitana	
+* “CiudadLibre”	
+* Barrio libre	
+* IslaLibre	
+* Líneas que tejen una trama	
+* - Los territorios	
+* - Los humanos: Técnicos, Hippies y Anarquistas
+* 	- Formación	
+* 	- Trabajo	
+* 	- Un mundo masculino	
+* - La organización	
+* - Los saberes	
 
 #### 4. Aprender libre y en red.	
-Introducción:	
-Hackers en las RIILyC	
-Ser un hacker wifi	
-Trayectos personales de aprendizaje	
-Dominar la consola	
-Compartir los bichos	
-Taller de Antenas	
-A modo de conclusión	
+* Introducción:	
+* Hackers en las RIILyC	
+* Ser un hacker wifi	
+* Trayectos personales de aprendizaje	
+* Dominar la consola	
+* Compartir los bichos	
+* Taller de Antenas	
+* A modo de conclusión	
 
 #### 5: Una manifestación de lo libre.
 Manifiestos	
--Los textos en Informática y nuevas tecnologías:	
-El manifiesto de las Redes Libres Latinoamericanas (MRL)	
--Absolutamente no garantizado	
--Intercambios entre RIILyC	
-- La escala lo cambia todo
-Lo técnico y lo político	
-Anexo III: Manifiesto de las Redes Libres	
+* -Los textos en Informática y nuevas tecnologías:	
+* El manifiesto de las Redes Libres Latinoamericanas (MRL)	
+* -Absolutamente no garantizado	
+* -Intercambios entre RIILyC	
+* - La escala lo cambia todo
+* Lo técnico y lo político	
+* Anexo III: Manifiesto de las Redes Libres	
 
 #### 6: De bares, muelles y pantallas.
-Extranjeros en un bar	
-Antropología y etnografía de lo digital	
-Vecindades geográficas y digitales	
-- Co-presencia digital y analógica	
-Anexo IV: Grupos de Redes Inalámbricas Libres y Comunitarias 	
+* Extranjeros en un bar	
+* Antropología y etnografía de lo digital	
+* Vecindades geográficas y digitales	
+* - Co-presencia digital y analógica	
+* Anexo IV: Grupos de Redes Inalámbricas Libres y Comunitarias 	
 
 #### 7: Algunas conclusiones	
 * -Aprendizaje y activismo
