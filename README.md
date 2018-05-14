@@ -1,6 +1,6 @@
 
 ```js
-// Tesis de doctorado para ser presentada en la carrera de Antropología Scoial y Cultural.
+// Tesis de doctorado para ser presentada en la carrera de Antropología Social y Cultural.
 IDAES = Instituto de Altos Estudios Sociales
 UNSAM = Universidad Nacional de San Martín (Argentina) {
   doctorando = lic. Daniel Daza (Prado)
