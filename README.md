@@ -95,7 +95,6 @@ El manifiesto de las Redes Libres Latinoamericanas (MRL)
 - La escala lo cambia todo
 Lo técnico y lo político	
 Anexo III: Manifiesto de las Redes Libres	
-![Octocat](https://surcandolared.files.wordpress.com/2012/04/1f7f9051c.jpg?w=290&h=376)
 
 #### 6: De bares, muelles y pantallas.
 Extranjeros en un bar	
@@ -109,6 +108,11 @@ Anexo IV: Grupos de Redes Inalámbricas Libres y Comunitarias
 - Libertades y redes
 - Informáticos y vecinos
 
+</font></td> 
+   </tr> 
+   <tr> 
+      <td valign=top><font face="verdana, arial, helvetica" size=1>+</font></td> 
+      <td><font face="verdana, arial, helvetica" size=1>
 
 
 Espero que esta tesis aporte a la construcción de una: 
