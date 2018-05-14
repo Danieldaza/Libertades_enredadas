@@ -26,7 +26,7 @@ en la wiki de Github::<a href="https://github.com/Danieldaza/Libertades_enredada
   a.continuación_tenés el índice("= #{version mayo 2018}")
 end
 ```
-Podés leer y comentar los capítulos de esta tesis en la wiki del github: 
+Ir a la wiki: <a href="https://github.com/Danieldaza/Libertades_enredadas/wiki">Wiki</a>
 
 #### 0. Introducción	
 0.1 Encontrar un tema en el laberinto	
