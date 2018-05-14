@@ -119,7 +119,7 @@ Anexo IV: Grupos de Redes Inalámbricas Libres y Comunitarias
 <tr> 
     <td bgcolor="#ffffcc"> 
    <font face="verdana, arial, helvetica" size=1> 
-   Espero que esta tesis aporte a la construcción de una: 
+   <b>Espero que esta tesis aporte a la construcción de una:<b>
 	    <IMG src="https://surcandolared.files.wordpress.com/2012/04/1f7f9051c.jpg?w=290&h=376" width="100" height="100"/>
    </font> 
    </td> 
