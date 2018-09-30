@@ -38,43 +38,40 @@ Ir a la: <a href="https://github.com/Danieldaza/Libertades_enredadas/wiki">Wiki<
 0.4 La importancia de estudiar a las Redes Libres
 0.5 La trama de los capítulos	
 
-#### 1. Somos Informática	
-1.1. Introducción	
-1.2. Historias informáticas	
-1.2.1. Máquinas	
-1.2.2. Computadoras	
-1.2.3. Software libre (SL)	
-1.2.3.1. Críticas	
-1.2.4 Internet	
- 1.2.4.1. Redes canceladas	
-1.2.4.2. Argentina	
-1.2.4.3. Blogs y redes sociales 2.0	
-1.2.5. Aceleradores	
-1.3. Capitalismo informacional, flexible, cognitivo y electrónico	
-1.4. Algunas conclusiones	
- 
-#### 2. Redes Inalámbricas Libres con Internet Comunitaria	2
-2.1 Resumen	2
-2.2 Redes Inalámbricas Libres con Internet Comunitaria	3
-2.5. Historias convergentes	10
-2.3. Características de la “red digital”	16
-2.4. Sustentar una “red social”	20
-2.6. La trama socio-técnica	24
+#### 1. Máquinas informáticas
 
-#### 3. Una malla enredada	
-3.1 Introducción	
-La ciudad de Buenos Aires y su área metropolitana	
-“CiudadLibre”	
-Barrio libre	
-IslaLibre	
-Líneas que tejen una trama	
-- Los territorios	
-- Los humanos: Técnicos, Hippies y Anarquistas
-- Formación	
-	- Trabajo	
-	- Un mundo masculino	
- - La organización	
- - Los saberes	
+1.1. Resumen	
+1.2. Máquinas informáticas	
+1.2.1.“Primero la gente, después la máquina”	
+1.2.2. Computadoras personales	
+1.3. Software libre (SL)	
+1.3.1. Críticas a la libertad	
+1.4. Internet	
+1.4.1. Argentinos conectados	
+1.4.2. Web colaborativa	
+1.4.3. Red galáctica	
+ 
+#### 2. Redes Inalámbricas Libres con Internet Comunitaria	
+2.1 Resumen	
+2.2 Redes Inalámbricas Libres con Internet Comunitaria	
+2.3. Historias convergentes	
+2.3.1. Radios y redes ciudadanas	
+2.3.2 En el origen lo “social”	
+2.3.3. “Pelearse con las antenas"
+ 2.4. Características de la “red digital”	
+2.5. Sustentar una “red social”
+
+#### 3. Humanos enredados	
+3.1 Resumen	
+3.2. Sociabilidad en las RILIC
+3.2.1 Códigos geeks	
+3.2.2. Médicos y hackers
+3.2.3 Técnicos, hippies y anarquistas
+3.3 Compartir para no ser un terminal de Internet	
+3.3.1 Controvertidas bifurcaciones temáticas	
+3.3 La comunidad de las antenas	
+Anexo I: Manifiesto Nickname.
+
 
 #### 4. Aprender libre y en red.	
  Introducción:	
