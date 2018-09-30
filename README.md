@@ -10,6 +10,12 @@ UNSAM = Universidad Nacional de San Martín (Argentina) {
 
 # Libertades enredadas. Una mirada antropológica del aprendizaje y el activismo de los informáticos en las Redes de Internet Comunitaria de Buenos Aires.
 
+ATENCIÓN ESTE MATERIAL ES BORRADOR.
+
+Aplica la licencia: 
+<IMG SRC="http://creativecommons.org.ar/media/uploads/licencias/by-nc-sa-125px.png" ALT="some text" WIDTH=64 HEIGHT=32>
+Atribución – No Comercial – Compartir Igual (by-nc-sa): No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de las cuales se debe hacer con una licencia igual a la que regula la obra original. 
+
 ## Resumen:
 ¿Qué motiva a un grupo de informáticos y vecinos a construir su propia Internet comunitaria conectando sus computadoras entre sí? ¿Quienes son estos activistas que dedican su tiempo a experimentar con tecnologías, aprender en grupo y hacer amigos?.
 Denominados “Redes Libres”, existen grupos formados por personas que conectan sus computadoras para compartir datos y servicios utilizando tecnología inalámbrica (WiFi). Con una mirada antropológica esta tesis explora, a partir del trabajo etnográfico con los informáticos de tres redes que funcionaron en la ciudad y la provincia de Buenos Aires en la década del 2010,  los cruces entre  el activismo tecnosocial, los principios del Software Libre y algunas formas de aprendizaje en la práctica, autónomo y colaborativo. 
