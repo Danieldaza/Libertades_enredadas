@@ -23,7 +23,7 @@ El conocimiento informático se ha vuelto transversal a todas las disciplinas y 
 ```ruby
 # Podés leer y comentar los capítulos de esta tesis
 en la wiki de Github::<a href="https://github.com/Danieldaza/Libertades_enredadas/wiki">Wiki</a> 
-  a.continuación_tenés el índice("= #{version mayo 2018}")
+  a.continuación_tenés el índice("= #{version septiembre 2018}")
 end
 ```
 Ir a la: <a href="https://github.com/Danieldaza/Libertades_enredadas/wiki">Wiki</a>
