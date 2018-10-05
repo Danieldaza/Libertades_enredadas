@@ -8,7 +8,7 @@ UNSAM = Universidad Nacional de San Martín (Argentina) {
 }
 ```
 
-# Libertades enredadas. Una mirada antropológica del aprendizaje y el activismo de los informáticos en las Redes de Internet Comunitaria de Buenos Aires.
+# Libertades enredadas. Una mirada antropológica sobre el aprendizaje y el activismo en las redes de Internet comunitaria en Buenos Aires.
 
 ATENCIÓN ESTE MATERIAL ES BORRADOR.
 
@@ -17,13 +17,11 @@ Aplica la licencia:
 Atribución – No Comercial – Compartir Igual (by-nc-sa): No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de las cuales se debe hacer con una licencia igual a la que regula la obra original. 
 
 ## Resumen:
-¿Qué motiva a un grupo de informáticos y vecinos a construir su propia Internet comunitaria conectando sus computadoras entre sí? ¿Quienes son estos activistas que dedican su tiempo a experimentar con tecnologías, aprender en grupo y hacer amigos?.
-Denominados “Redes Libres”, existen grupos formados por personas que conectan sus computadoras para compartir datos y servicios utilizando tecnología inalámbrica (WiFi). Con una mirada antropológica esta tesis explora, a partir del trabajo etnográfico con los informáticos de tres redes que funcionaron en la ciudad y la provincia de Buenos Aires en la década del 2010,  los cruces entre  el activismo tecnosocial, los principios del Software Libre y algunas formas de aprendizaje en la práctica, autónomo y colaborativo. 
 
-La red de redes está tensionada por múltiples intereses contrapuestos: libertad o control, centralismo u horizontalidad, colaboración o individualismo, capitalismo o anarquismo. Esta investigación nos permite comprender la historia de estas y otras controversias, desde el punto de vista de quienes buscan construir formas horizontales y cooperativas para esa máquina sociotécnica llamada Internet. 
-
-El conocimiento informático se ha vuelto transversal a todas las disciplinas y ámbitos de la vida cotidiana. Este texto propone que el aprendizaje es un elemento clave para los activistas que se disputan los sentidos de la libertad en las redes digitales. 
-
+Denominados “Redes Inalámbricas Libres y Comunitarias”, existen grupos formados por personas que enredan sus computadoras para compartir datos y servicios utilizando tecnología inalámbrica (WiFi).
+Al igual que esa máquina socio-técnica llamada Internet, estas redes también están tensionadas por múltiples intereses contrapuestos: libertad o control, centralismo u horizontalidad, colaboración o individualismo, capitalismo o anarquismo. 
+Esta investigación nos permite comprender la historia de estas controversias desde el punto de vista de los que buscan construir formas horizontales y cooperativas para reconfigurar la “red de redes”. ¿Quiénes son estos activistas que dedican su tiempo a experimentar con tecnologías, aprender en grupo y hacer amigos? ¿Qué los motiva a interconectar sus computadoras y construir su propia Internet comunitaria?
+Esta tesis es el resultado de un trabajo etnográfico con los técnicos informáticos y vecinos de tres redes que funcionaron en la Ciudad y la Provincia de Buenos Aires en la década del 2010. Explora los cruces entre el activismo tecno-social, los principios del Software Libre y algunas formas de aprendizaje basadas en la construcción cotidiana –online y offline– de la autonomía y la colaboración. 
 
 ## Índice
 ```ruby
