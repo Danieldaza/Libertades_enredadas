@@ -19,8 +19,11 @@ Atribución – No Comercial – Compartir Igual (by-nc-sa): No se permite un us
 ## Resumen:
 
 Denominados “Redes Inalámbricas Libres y Comunitarias”, existen grupos formados por personas que enredan sus computadoras para compartir datos y servicios utilizando tecnología inalámbrica (WiFi).
+<br>
 Al igual que esa máquina socio-técnica llamada Internet, estas redes también están tensionadas por múltiples intereses contrapuestos: libertad o control, centralismo u horizontalidad, colaboración o individualismo, capitalismo o anarquismo. 
+<br>
 Esta investigación nos permite comprender la historia de estas controversias desde el punto de vista de los que buscan construir formas horizontales y cooperativas para reconfigurar la “red de redes”. ¿Quiénes son estos activistas que dedican su tiempo a experimentar con tecnologías, aprender en grupo y hacer amigos? ¿Qué los motiva a interconectar sus computadoras y construir su propia Internet comunitaria?
+<br>
 Esta tesis es el resultado de un trabajo etnográfico con los técnicos informáticos y vecinos de tres redes que funcionaron en la Ciudad y la Provincia de Buenos Aires en la década del 2010. Explora los cruces entre el activismo tecno-social, los principios del Software Libre y algunas formas de aprendizaje basadas en la construcción cotidiana –online y offline– de la autonomía y la colaboración. 
 
 ## Índice
