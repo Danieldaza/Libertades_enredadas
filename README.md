@@ -80,22 +80,22 @@ Anexo I: Manifiesto Nickname.
 
 
 #### 4. Microondas de aprendizaje	
-4.0 Resumen
-4.1 Aprender en las redes libres	
-4.1.1 Mágicos trayectos de aprendizaje libre	
-4.1.2. La libertad hacker	
-4.1.3. Colaborar y compartir bichos
-4.1.4. Dominar la consola
-4.1.5. Taller de Antenas
-4.2. Aprendizaje libre, colaborativo, basado en problemas autogenerados
+4.1 Resumen
+4.3 Aprender en las redes libres	
+4.2.1 Mágicos trayectos de aprendizaje libre	
+4.2.2. La libertad hacker	
+4.2.3. Colaborar y compartir bichos
+4.2.4. Dominar la consola
+4.2.5. Taller de Antenas
+4.3. Aprendizaje libre, colaborativo, basado en problemas autogenerados
 
 #### 5: Una manifestación de lo libre.
 Manifiestos	
--Los textos en Informática y nuevas tecnologías:	
+Los textos en Informática y nuevas tecnologías:	
 El manifiesto de las Redes Libres Latinoamericanas (MRL)	
--Absolutamente no garantizado	
--Intercambios entre RIILyC	
-- La escala lo cambia todo
+Absolutamente no garantizado	
+Intercambios entre RIILyC	
+La escala lo cambia todo
 Lo técnico y lo político	
 Anexo III: Manifiesto de las Redes Libres	
 
@@ -103,7 +103,7 @@ Anexo III: Manifiesto de las Redes Libres
 Extranjeros en un bar	
 Antropología y etnografía de lo digital	
 Vecindades geográficas y digitales	
-- Co-presencia digital y analógica	
+Co-presencia digital y analógica	
 Anexo IV: Grupos de Redes Inalámbricas Libres y Comunitarias 	
 
 #### 7: Algunas conclusiones	
