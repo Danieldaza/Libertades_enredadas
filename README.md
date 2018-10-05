@@ -79,15 +79,15 @@ Ir a la: <a href="https://github.com/Danieldaza/Libertades_enredadas/wiki">Wiki<
 Anexo I: Manifiesto Nickname.
 
 
-#### 4. Aprender libre y en red.	
- Introducción:	
- Hackers en las RIILyC	
- Ser un hacker wifi	
- Trayectos personales de aprendizaje	
- Dominar la consola	
- Compartir los bichos	
- Taller de Antenas	
- A modo de conclusión	
+#### 4. Microondas de aprendizaje	
+4.0 Resumen
+4.1 Aprender en las redes libres	
+4.1.1 Mágicos trayectos de aprendizaje libre	
+4.1.2. La libertad hacker	
+4.1.3. Colaborar y compartir bichos
+4.1.4. Dominar la consola
+4.1.5. Taller de Antenas
+4.2. Aprendizaje libre, colaborativo, basado en problemas autogenerados
 
 #### 5: Una manifestación de lo libre.
 Manifiestos	
@@ -107,7 +107,7 @@ Vecindades geográficas y digitales
 Anexo IV: Grupos de Redes Inalámbricas Libres y Comunitarias 	
 
 #### 7: Algunas conclusiones	
--Aprendizaje y activismo
+- Aprendizaje y activismo
 - Libertades y redes
 - Informáticos y vecinos
 
