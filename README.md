@@ -8,7 +8,7 @@ UNSAM = Universidad Nacional de San Martín (Argentina) {
 }
 ```
 
-# Libertades enredadas. Una mirada antropológica sobre el aprendizaje y el activismo en las redes de Internet comunitaria en Buenos Aires.
+# Libertades enredadas. Aprendizaje y activismo en los informáticos que arman redes inalámbricas de Internet comunitaria y libre de Buenos Aires
 
 ATENCIÓN ESTE MATERIAL ES BORRADOR.
 
@@ -18,13 +18,12 @@ Atribución – No Comercial – Compartir Igual (by-nc-sa): No se permite un us
 
 ## Resumen:
 
-Denominados “Redes Inalámbricas Libres y Comunitarias”, existen grupos formados por personas que enredan sus computadoras para compartir datos y servicios utilizando tecnología inalámbrica (WiFi).
-<br>
-Al igual que esa máquina socio-técnica llamada Internet, estas redes también están tensionadas por múltiples intereses contrapuestos: libertad o control, centralismo u horizontalidad, colaboración o individualismo, capitalismo o anarquismo. 
-<br>
-Esta investigación nos permite comprender la historia de estas controversias desde el punto de vista de los que buscan construir formas horizontales y cooperativas para reconfigurar la “red de redes”. ¿Quiénes son estos activistas que dedican su tiempo a experimentar con tecnologías, aprender en grupo y hacer amigos? ¿Qué los motiva a interconectar sus computadoras y construir su propia Internet comunitaria?
-<br>
-Esta tesis es el resultado de un trabajo etnográfico con los técnicos informáticos y vecinos de tres redes que funcionaron en la Ciudad y la Provincia de Buenos Aires en la década del 2010. Explora los cruces entre el activismo tecno-social, los principios del Software Libre y algunas formas de aprendizaje basadas en la construcción cotidiana –online y offline– de la autonomía y la colaboración. 
+El propósito de esta tesis es estudiar, a partir de una investigación antropológica, el aprendizaje y el activismo en los grupos de informáticos que gestionan estructuras de Internet comunitaria libre en Buenos Aires. 
+	<br>
+	Esta tesis busca explorar los principios básicos de las libertades del software, en sus relaciones con un tipo de activismo que llamaré tecnológico y las formas de aprendizaje autónomo y colaborativo. La investigación indaga también sobre las prácticas de activismo que se dan en las relaciones que los actores establecen entre sí, con lo que ellos definen como usuarios y con la Informática. El aprendizaje se entiende aquí desde una definición nativa que implica la realización de actividades de búsqueda, interrogación, modelización y puesta en práctica de saberes, que si bien se realizan mayormente en forma solitaria también implican compartir las experiencias con otros informáticos en espacios formales, no formales e informales de colaboración. 
+	<br>
+	Denominados “Redes Libres”, estos grupos están formados por personas que conectan sus computadoras para compartir datos y servicios utilizando tecnología inalámbrica (WiFi). Estas redes no siempre brindan acceso a la Internet global ya que sus integrantes buscan generar formas horizontales de comunicación y colaboración entre pares utilizando computadoras conectadas a redes locales. Existen cientos de estas redes alrededor del mundo, surgidas en el marco del movimiento del “Software Libre”, trabajando voluntaria y/o comercialmente para construir antenas caseras, hackear routers y diseñar arquitecturas de conexión en red. Para esta tesis seguí a los informáticos de tres redes que funcionaron en la ciudad y la provincia de Buenos Aires en la década del 2010. 
+
 
 ## Índice
 ```ruby
