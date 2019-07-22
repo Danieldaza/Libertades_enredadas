@@ -33,6 +33,8 @@ en la wiki de Github::<a href="https://github.com/Danieldaza/Libertades_enredada
 end
 ```
 Ir a la: <a href="https://github.com/Danieldaza/Libertades_enredadas/wiki">Wiki</a>
+Descargar la tesis: <a href="https://github.com/Danieldaza/Libertades_enredadas/blob/master/Tesis_Libertades%20enredadas_Daza_2019.pdf">Tesis</a>
+
 
 #### 0. Introducción	
 0.1 Encontrar un tema en el laberinto	
