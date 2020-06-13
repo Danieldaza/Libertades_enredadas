@@ -16,6 +16,9 @@ Aplica la licencia:
 <IMG SRC="http://creativecommons.org.ar/media/uploads/licencias/by-nc-sa-125px.png" ALT="some text" WIDTH=64 HEIGHT=32>
 Atribución – No Comercial – Compartir Igual (by-nc-sa): No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de las cuales se debe hacer con una licencia igual a la que regula la obra original. 
 
+
+Video  del trabajo de campo: https://youtu.be/OvEaCQvje1U
+
 ## Resumen:
 
 El propósito de esta tesis es estudiar, a partir de una investigación antropológica, el aprendizaje y el activismo en los grupos de informáticos que gestionan estructuras de Internet comunitaria libre en Buenos Aires. 
